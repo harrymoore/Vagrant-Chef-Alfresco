@@ -1,0 +1,6 @@
+{
+    "run_list": [
+      "recipe[pferdefleisch::dotfiles]"
+    ],
+    "user": "aaron"
+}

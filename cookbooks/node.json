@@ -1,0 +1,10 @@
+{
+	"tomcat_version": ["6"], 
+	"mysql": {
+    "server_root_password": "root",
+    "server_repl_password": "root",
+    "server_debian_password": "root",
+    "bind_address": "localhost"
+  }
+}
+
